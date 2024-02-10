@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workaraund", "ConsoleApp2\Workaraund.csproj", "{0107BD58-CF41-486F-AFDF-59922056834E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{500FC788-D951-4268-A740-6A3F387D64C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{86A7A488-234F-4C90-8772-5ADC9AECBC1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0107BD58-CF41-486F-AFDF-59922056834E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0107BD58-CF41-486F-AFDF-59922056834E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0107BD58-CF41-486F-AFDF-59922056834E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0107BD58-CF41-486F-AFDF-59922056834E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{500FC788-D951-4268-A740-6A3F387D64C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{500FC788-D951-4268-A740-6A3F387D64C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{500FC788-D951-4268-A740-6A3F387D64C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{500FC788-D951-4268-A740-6A3F387D64C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86A7A488-234F-4C90-8772-5ADC9AECBC1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86A7A488-234F-4C90-8772-5ADC9AECBC1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86A7A488-234F-4C90-8772-5ADC9AECBC1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86A7A488-234F-4C90-8772-5ADC9AECBC1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35B948E5-1750-4EC2-9FFC-6B055CEE0793}
+	EndGlobalSection
+EndGlobal
